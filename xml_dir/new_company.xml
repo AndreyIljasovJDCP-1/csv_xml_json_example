@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <company>
+        <offices>
+            <office floor="1" room="2">
+                <employees>
+                    <employee job="Middle Software Developer" name="Михаил"/>
+                </employees>
+            </office>
+            <office floor="2" room="1">
+                <employees>
+                    <employee job="Junior Software Developer" name="Сергей"/>
+                </employees>
+            </office>
+        </offices>
+    </company>
+</root>

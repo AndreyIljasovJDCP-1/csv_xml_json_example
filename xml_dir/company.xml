@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<company name="Sber">
+    <offices>
+        <office floor="1" room="1">
+            <employees>
+                <employee job="Middle Software Developer" name="Иван"/>
+                <employee job="Junior Software Developer" name="Сергей"/>
+                <employee job="Junior Software Developer" name="Дмитрий"/>
+            </employees>
+        </office>
+        <office floor="1" room="2">
+            <employees>
+                <employee job="Senior Software Developer" name="Алексей"/>
+                <employee job="Middle Software Developer" name="Анна"/>
+                <employee job="Junior Software Developer" name="Михаил"/>
+            </employees>
+        </office>
+    </offices>
+</company>
+</root>
